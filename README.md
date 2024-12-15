@@ -15,3 +15,5 @@ A responsive and interactive quiz application built with React and styled using 
     Frontend: React (JavaScript)
     Styling: Tailwind CSS
     API: Open Trivia Database API
+
+## **By JBD**
