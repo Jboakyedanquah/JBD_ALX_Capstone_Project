@@ -19,7 +19,6 @@ A dynamic and responsive quiz application designed with React and styled using T
 ## **Installation**
 
 Follow the steps below to set up the application locally:
-Final code can found in the dev baranch.
 
 **Clone the Repository**  
    ```bash
